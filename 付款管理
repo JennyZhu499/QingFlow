@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T05:22:05.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="I5TpYYrEh0sBWKXIUinN" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T05:27:46.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Lx_2pPwi4a3mgnAuMNJv" version="14.8.0" type="github">
   <diagram id="VExVl37PMyZhKRNRpwTG" name="付款管理审批流">
-    <mxGraphModel dx="1662" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,6 +58,9 @@
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-44" value="China Director审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-42" vertex="1">
           <mxGeometry x="345" y="25" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="S4SXBSVKPs6sc8AaJyD_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LyWjXeAEITyFcTo8n996-42" source="LyWjXeAEITyFcTo8n996-45" target="LyWjXeAEITyFcTo8n996-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="S4SXBSVKPs6sc8AaJyD_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LyWjXeAEITyFcTo8n996-10" source="U5wjitLZYRcX1Nm8SaFY-43" target="U5wjitLZYRcX1Nm8SaFY-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -92,7 +95,12 @@
           <mxGeometry x="320" y="50" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LyWjXeAEITyFcTo8n996-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.419;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LyWjXeAEITyFcTo8n996-14" target="LyWjXeAEITyFcTo8n996-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="320" />
+              <mxPoint x="270" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LpXD3l8Wr2I7rt49SUkN-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;付款申请(other dept.)&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="20" width="510" height="280" as="geometry" />
@@ -198,8 +206,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="414" y="305" />
-              <mxPoint x="580" y="305" />
+              <mxPoint x="414" y="320" />
+              <mxPoint x="580" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
