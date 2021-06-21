@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T02:21:56.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="axpE_7VNr92jStyqZF0Z" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T02:23:13.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Y5KJGvTo5QfikX9fza_w" version="14.8.0" type="github">
   <diagram id="VExVl37PMyZhKRNRpwTG" name="Page-1">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,8 +310,8 @@
             <mxPoint x="1660" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5wjitLZYRcX1Nm8SaFY-18" value="会计审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="660" width="510" height="90" as="geometry">
+        <mxCell id="U5wjitLZYRcX1Nm8SaFY-18" value="China Director审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="660" width="510" height="110" as="geometry">
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -330,7 +330,7 @@
           <mxGeometry x="320" y="50" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-33" value="会计审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="750" width="510" height="110" as="geometry">
+          <mxGeometry x="1320" y="770" width="510" height="90" as="geometry">
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -403,8 +403,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1800" y="225" />
-              <mxPoint x="1800" y="770" />
-              <mxPoint x="1562" y="770" />
+              <mxPoint x="1800" y="790" />
+              <mxPoint x="1562" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
