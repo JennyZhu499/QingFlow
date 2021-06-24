@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T06:27:26.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="uNdB5XNLQiTS2FI2okJj" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T06:28:03.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gYLFgk3AmrSDAkQXTHxF" version="14.8.0" type="github">
   <diagram id="VExVl37PMyZhKRNRpwTG" name="付款管理审批流">
     <mxGraphModel dx="1460" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
           <mxGeometry x="250" y="110" width="25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-10" value="小区经理审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="420" width="510" height="315" as="geometry">
+          <mxGeometry x="1320" y="420" width="510" height="140" as="geometry">
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -270,16 +270,6 @@
         <mxCell id="I3hBu8CN8VLqv2orAnsd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="U5wjitLZYRcX1Nm8SaFY-10" source="I3hBu8CN8VLqv2orAnsd-6" target="I3hBu8CN8VLqv2orAnsd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I3hBu8CN8VLqv2orAnsd-8" value="China Director审批&lt;br&gt;(Robin Lo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U5wjitLZYRcX1Nm8SaFY-10">
-          <mxGeometry x="340" y="260" width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="I3hBu8CN8VLqv2orAnsd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="U5wjitLZYRcX1Nm8SaFY-10" source="I3hBu8CN8VLqv2orAnsd-7" target="I3hBu8CN8VLqv2orAnsd-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="U5wjitLZYRcX1Nm8SaFY-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1660" y="225" as="targetPoint" />
@@ -289,6 +279,9 @@
           <mxGeometry x="1320" y="660" width="510" height="110" as="geometry">
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hBu8CN8VLqv2orAnsd-8" value="China Director审批&lt;br&gt;(Robin Lo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U5wjitLZYRcX1Nm8SaFY-18">
+          <mxGeometry x="342" y="22.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-20" value="付款金额判断" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1320" y="300" width="510" height="120" as="geometry">
@@ -406,6 +399,13 @@
             <Array as="points">
               <mxPoint x="1720" y="750" />
               <mxPoint x="1562" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3hBu8CN8VLqv2orAnsd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I3hBu8CN8VLqv2orAnsd-7" target="I3hBu8CN8VLqv2orAnsd-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
