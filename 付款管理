@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T06:37:00.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="i1RDN9cZIrq8uEkRDoz2" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T06:37:21.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="FXpfLKSZmacKwCsWR3GR" version="14.8.0" type="github">
   <diagram id="VExVl37PMyZhKRNRpwTG" name="付款管理审批流">
     <mxGraphModel dx="1460" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="LyWjXeAEITyFcTo8n996-35" value="&lt;span&gt;付款金额∈ ($7,500,$40,000]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-6" vertex="1">
           <mxGeometry x="160" y="50" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LpXD3l8Wr2I7rt49SUkN-43" value="&lt;span&gt;付款金额∈ ($40,000,∞)&lt;br&gt;&lt;b&gt;出现reminder (warning msg)&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-6" vertex="1">
+        <mxCell id="LpXD3l8Wr2I7rt49SUkN-43" value="&lt;span&gt;付款金额∈ ($40,000,∞)&lt;br&gt;&lt;/span&gt;&lt;b&gt;系统发送reminder email&lt;/b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-6" vertex="1">
           <mxGeometry x="320" y="50" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LyWjXeAEITyFcTo8n996-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.419;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LyWjXeAEITyFcTo8n996-14" target="LyWjXeAEITyFcTo8n996-34" edge="1">
@@ -317,7 +317,7 @@
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-22" value="&lt;span&gt;付款金额∈ ($7,500,$40,000]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U5wjitLZYRcX1Nm8SaFY-20" vertex="1">
           <mxGeometry x="162" y="50" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U5wjitLZYRcX1Nm8SaFY-23" value="&lt;span&gt;付款金额∈ ($40,000,∞)&lt;br&gt;&lt;b&gt;出现reminder (warning msg)&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U5wjitLZYRcX1Nm8SaFY-20" vertex="1">
+        <mxCell id="U5wjitLZYRcX1Nm8SaFY-23" value="&lt;span&gt;付款金额∈ ($40,000,∞)&lt;br&gt;&lt;/span&gt;&lt;b&gt;系统发送reminder email&lt;/b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U5wjitLZYRcX1Nm8SaFY-20" vertex="1">
           <mxGeometry x="320" y="50" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-33" value="会计审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
