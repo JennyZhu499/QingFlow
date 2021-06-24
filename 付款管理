@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T07:26:18.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eSB1656-uhHPAm-oCA3-" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T07:27:12.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hdwQbYacLXnC1vqww6qp" version="14.8.0" type="github">
   <diagram id="VExVl37PMyZhKRNRpwTG" name="付款管理审批流">
     <mxGraphModel dx="1460" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
           <mxGeometry x="337" y="20" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-19" value="China Director审批&lt;br&gt;(Robin Lo)" style="rounded=0;whiteSpace=wrap;html=1;" parent="U5wjitLZYRcX1Nm8SaFY-18" vertex="1">
-          <mxGeometry x="180" y="25" width="120" height="55" as="geometry" />
+          <mxGeometry x="179" y="20" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U5wjitLZYRcX1Nm8SaFY-20" value="付款金额判断" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1320" y="300" width="510" height="120" as="geometry">
