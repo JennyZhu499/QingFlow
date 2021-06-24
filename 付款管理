@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T06:28:03.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gYLFgk3AmrSDAkQXTHxF" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T06:28:56.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="0ePbTIkn4O4gR7qQ_HC8" version="14.8.0" type="github">
   <diagram id="VExVl37PMyZhKRNRpwTG" name="付款管理审批流">
     <mxGraphModel dx="1460" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,13 +38,13 @@
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LyWjXeAEITyFcTo8n996-38" value="部门主管审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-10" vertex="1">
+        <mxCell id="LyWjXeAEITyFcTo8n996-38" value="部门经理审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-10" vertex="1">
           <mxGeometry x="40" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpXD3l8Wr2I7rt49SUkN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="LyWjXeAEITyFcTo8n996-10" source="LyWjXeAEITyFcTo8n996-41" target="LyWjXeAEITyFcTo8n996-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LyWjXeAEITyFcTo8n996-41" value="部门主管审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-10" vertex="1">
+        <mxCell id="LyWjXeAEITyFcTo8n996-41" value="部门经理审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-10" vertex="1">
           <mxGeometry x="193" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LyWjXeAEITyFcTo8n996-42" value="China Director审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="LyWjXeAEITyFcTo8n996-10" vertex="1">
@@ -52,8 +52,8 @@
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LyWjXeAEITyFcTo8n996-45" value="China Director审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-42" vertex="1">
-          <mxGeometry x="188" y="30" width="110" height="50" as="geometry" />
+        <mxCell id="LyWjXeAEITyFcTo8n996-45" value="China Director审批&lt;br&gt;（Robin Lo）" style="rounded=0;whiteSpace=wrap;html=1;" parent="LyWjXeAEITyFcTo8n996-42" vertex="1">
+          <mxGeometry x="188" y="25" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S4SXBSVKPs6sc8AaJyD_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="LyWjXeAEITyFcTo8n996-42" source="LyWjXeAEITyFcTo8n996-45" target="LyWjXeAEITyFcTo8n996-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
