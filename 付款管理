@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T07:19:32.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JL2QN_QIbEAyIQyHOBcO" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T07:26:18.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eSB1656-uhHPAm-oCA3-" version="14.8.0" type="github">
   <diagram id="VExVl37PMyZhKRNRpwTG" name="付款管理审批流">
     <mxGraphModel dx="1460" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,8 +33,8 @@
             <mxPoint x="224" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LyWjXeAEITyFcTo8n996-10" value="部门主管(大区经理)审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="420" width="510" height="140" as="geometry">
+        <mxCell id="LyWjXeAEITyFcTo8n996-10" value="部门主管审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="420" width="510" height="110" as="geometry">
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -48,7 +48,7 @@
           <mxGeometry x="193" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LyWjXeAEITyFcTo8n996-42" value="China Director审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="LyWjXeAEITyFcTo8n996-10" vertex="1">
-          <mxGeometry y="140" width="510" height="110" as="geometry">
+          <mxGeometry y="110" width="510" height="120" as="geometry">
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LyWjXeAEITyFcTo8n996-46" value="会计审批" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="670" width="510" height="80" as="geometry">
+          <mxGeometry x="190" y="650" width="510" height="80" as="geometry">
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -361,8 +361,8 @@
         <mxCell id="S4SXBSVKPs6sc8AaJyD_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LyWjXeAEITyFcTo8n996-38" target="LyWjXeAEITyFcTo8n996-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="660" />
-              <mxPoint x="433" y="660" />
+              <mxPoint x="280" y="640" />
+              <mxPoint x="433" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -370,8 +370,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="225" />
-              <mxPoint x="680" y="660" />
-              <mxPoint x="433" y="660" />
+              <mxPoint x="680" y="640" />
+              <mxPoint x="433" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -382,7 +382,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I3hBu8CN8VLqv2orAnsd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I3hBu8CN8VLqv2orAnsd-14" target="LyWjXeAEITyFcTo8n996-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="640" />
+              <mxPoint x="433" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="I3hBu8CN8VLqv2orAnsd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpXD3l8Wr2I7rt49SUkN-51" target="I3hBu8CN8VLqv2orAnsd-18">
           <mxGeometry relative="1" as="geometry" />
