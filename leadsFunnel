@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T03:26:41.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_VM4EElIs1gcvSgwWIlb" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:40:05.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ucKkYHCWSl8UrA1uw1qa" version="14.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2212" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,10 +174,10 @@
             <mxRectangle y="260" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5PxInllpvt-ttUn_Bsp6-111" value="&lt;b&gt;新增Funnel：&lt;br&gt;&lt;/b&gt;Sales填写Funnel跟进状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5PxInllpvt-ttUn_Bsp6-16">
+        <mxCell id="5PxInllpvt-ttUn_Bsp6-111" value="&lt;b&gt;SQL流进Funnel&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5PxInllpvt-ttUn_Bsp6-16">
           <mxGeometry x="325" y="35" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5PxInllpvt-ttUn_Bsp6-146" value="&lt;b&gt;以往存在的Funnel：&lt;br&gt;&lt;/b&gt;Sales填写Funnel跟进状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5PxInllpvt-ttUn_Bsp6-16">
+        <mxCell id="5PxInllpvt-ttUn_Bsp6-146" value="&lt;b&gt;Sales新增Funnel&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5PxInllpvt-ttUn_Bsp6-16">
           <mxGeometry x="820" y="35" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PxInllpvt-ttUn_Bsp6-156" value="每月再返还给销售更新Funnel情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5PxInllpvt-ttUn_Bsp6-16">
